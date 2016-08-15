@@ -30,7 +30,7 @@ Analytical and curious Technology Operations engineer seeking to learn new techn
 
 ## Skills & Accomplishments
 ### Ruby
-+ (Recent) Designed small daemon to format Pokemon GO REST API data to be consumed by Splunk
++ (Recent) Designed small daemon to format Pokemon-GO REST API data to be consumed by Splunk
 + Designed a Gem used to interact with F5 BigIP LTM REST API currently in use at Cvent
 + Eagerly seek out new libraries and design patterns
 + Strong grasp of Ruby language and the VM it is interpreted by

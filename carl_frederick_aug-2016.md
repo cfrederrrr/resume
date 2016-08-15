@@ -1,24 +1,13 @@
 # Carl L Frederick IV
 
-## Objective
-Technology Operations oriented Engineering position
-
 ## About
-To speak of myself as an automation minded engineer is an incomplete assertion. This quote stuck out to me as it succinctly sums up one of my strongest held beliefs about life as an operations engineer:
-
->Improving daily work is even more important than doing daily work.<br>
-&ensp;&ensp;&ensp;&ensp; ~ Gene Kim, KevinBehr, George Spafford; _The Phoenix Project_
-
-It seems to me that getting better at tasks means performing them becomes trivial; thus it is more important to focus on improving, and the rest will come naturally.
-
-As I see it, if I should have to do something more than once, a machine should do it the second time and every time thereafter. Except of course, at the cost of security or feature/service delivery.
-
-A tirelessly analytical nature and voraciously curiosity are the best tools at my disposal in the service of my broad goal to improve as an engineer... but knowing a lot of Bash, Ruby and Powershell doesn't hurt.
+Analytical and curious Technology Operations engineer seeking to learn new technologies while improving existing technical skills. I enjoy building scalable systems, tuning performance and discovering or inventing new ways to do so.
 
 ## Experience
 ### Cvent Inc.:
 + `03/2015...Present` => **Internet Operations / Cloud Operations Engineer**
   + Support/troubleshoot compute environments for external customer facing applications
+  + Scale Zabbix implementation from monitoring ~1,000 servers/network-devices/etc. to monitoring ~4,500
   + Administer Zabbix implementation (SME)
   + Administer Datadog implementation (Non SME)
   + Administer F5 BigIP LTM (SME in training)
@@ -45,7 +34,7 @@ A tirelessly analytical nature and voraciously curiosity are the best tools at m
 + Designed a Gem used to interact with F5 BigIP LTM REST API currently in use at Cvent
 + Eagerly seek out new libraries and design patterns
 + Strong grasp of Ruby language and the VM it is interpreted by
-+ 100% completion of codeacademy Ruby course
++ 100% completion of Codeacademy Ruby course
 
 ### \*nix systems
 + Command line veteran

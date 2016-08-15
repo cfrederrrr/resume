@@ -7,6 +7,12 @@ Operations focused Technology Engineering position
 >Improving daily work is even more important than doing daily work.<br>
 &ensp;&ensp;&ensp;&ensp; ~ Gene Kim, KevinBehr, George Spafford; _The Phoenix Project_
 
+I consider myself an automation minded engineer. As I see it, if I should have to do it twice, a machine should be doing it the second time and every time thereafter. This ensures uniform work, prevents manual mistakes as well as speeds up delivery. That describes the ideal scenario; the hard (fun) part is getting there. My weapon of choice is a combination of Bash and Ruby, but I like experimenting with unknown methods and try to stay flexible and accommodate the project at hand.
+
+That being said, I don't like to implement automation at the cost of features, security, or anything else for that matter, and continuously seek out (or invent) new tools/techniques to cover all bases. After all, a workflow is only as good as the product it facilitates. To that end,
+
+
+
 ## Experience
 ### Cvent Inc.:
 + `03/2015...Present` => **Internet Operations / Cloud Operations Engineer**
@@ -59,3 +65,6 @@ Operations focused Technology Engineering position
 ### General
 + RAID
 + Networking
++ Git/Github/Stash
++ Zabbix, Splunk, other monitoring tools
++ Hashicorp Vault, Vagrant

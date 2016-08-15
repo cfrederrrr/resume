@@ -1,17 +1,19 @@
 # Carl L Frederick IV
 
 ## Objective
-Operations focused Technology Engineering position
+Technology Operations oriented Engineering position
 
 ## About
+To speak of myself as an automation minded engineer is an incomplete assertion. This quote stuck out to me as it succinctly sums up one of my strongest held beliefs about life as an operations engineer:
+
 >Improving daily work is even more important than doing daily work.<br>
 &ensp;&ensp;&ensp;&ensp; ~ Gene Kim, KevinBehr, George Spafford; _The Phoenix Project_
 
-I consider myself an automation minded engineer. As I see it, if I should have to do it twice, a machine should be doing it the second time and every time thereafter. This ensures uniform work, prevents manual mistakes as well as speeds up delivery. That describes the ideal scenario; the hard (fun) part is getting there. My weapon of choice is a combination of Bash and Ruby, but I like experimenting with unknown methods and try to stay flexible and accommodate the project at hand.
+To me, this means getting better at tasks means that performing them becomes trivial; thus it is more important to focus on improving, and the rest will come naturally.
 
-That being said, I don't like to implement automation at the cost of features, security, or anything else for that matter, and continuously seek out (or invent) new tools/techniques to cover all bases. After all, a workflow is only as good as the product it facilitates. To that end,
+As I see it, if I should have to do something more than once, a machine should do it the second time and every time thereafter. Except of course, at the cost of security or feature/service delivery.
 
-
+A tirelessly analytical nature and voraciously curiosity are the best tools at my disposal in the service of my broad goal to improve as an engineer... but knowing a lot of Bash, Ruby and Powershell doesn't hurt.
 
 ## Experience
 ### Cvent Inc.:

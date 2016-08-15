@@ -9,7 +9,7 @@ To speak of myself as an automation minded engineer is an incomplete assertion. 
 >Improving daily work is even more important than doing daily work.<br>
 &ensp;&ensp;&ensp;&ensp; ~ Gene Kim, KevinBehr, George Spafford; _The Phoenix Project_
 
-To me, this means getting better at tasks means that performing them becomes trivial; thus it is more important to focus on improving, and the rest will come naturally.
+It seems to me that getting better at tasks means performing them becomes trivial; thus it is more important to focus on improving, and the rest will come naturally.
 
 As I see it, if I should have to do something more than once, a machine should do it the second time and every time thereafter. Except of course, at the cost of security or feature/service delivery.
 

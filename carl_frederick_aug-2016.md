@@ -11,7 +11,6 @@ Analytical and curious Technology Operations engineer seeking to learn new techn
 + Numerous custom data collectors for server monitoring in use at Cvent today
 
 ### \*nix systems
-+ Command line veteran
 + Strong `/bin/bash` scripting
 + Comfortable in most environments
   + Particularly CentOS (5, 6, 7), Ubuntu, BSD and OS-X

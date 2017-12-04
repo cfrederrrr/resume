@@ -84,12 +84,12 @@ Played a key role in buildout of Cvent's newest iteration of its DR environment,
 
 
 ### Flowers & Plants Etc.
-+ `5/2007 - 10/2013` => **Delivery/Operations**
++ `05/2007 - 10/2013` => **Delivery/Operations**
   + Managed scheduling/delivery of arrangements and installations
   + Ensured smooth day to day operations in the shop
   + Customer service representative
   + IT Support
 
 ## Education
-+ `9/2002 - 6/2007` => **McLean High School**
++ `09/2002 - 06/2007` => **McLean High School**
   + High School Diploma

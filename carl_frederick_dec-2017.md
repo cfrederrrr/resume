@@ -1,5 +1,5 @@
 # Carl L Frederick IV
-Analytical and curious Technology SRE/R&D engineer seeking to learn new technologies while improving existing technical skills. I enjoy building scalable systems, tuning performance and discovering or inventing new ways to do so.
+Analytical and curious Research & Development/Site-Reliability engineer (R&D/SRE) seeking to learn new technologies while improving existing technical skills. I enjoy building scalable systems, tuning performance and discovering or inventing new ways to do so.
 
 ## Skills & Accomplishments
 ### Disaster Recovery
@@ -15,8 +15,8 @@ Played a key role in buildout of Cvent's newest iteration of its DR environment,
 + Designed and wrote a Gem used to interact with F5 BigIP LTM REST API currently in use at Cvent
 + Eagerly seek out new libraries and design patterns
 + Strong grasp of Ruby language and the LLVM it is interpreted by
-+ 100% completion of Codeacademy Ruby course
 + Numerous custom data collectors for server monitoring in use at Cvent today
++ Familiar with rubygems and gem servers
 
 ### Python
 + Wrote custom Datadog health checks for WMI
@@ -48,7 +48,8 @@ Played a key role in buildout of Cvent's newest iteration of its DR environment,
 + RAID
 + Networking/routing
 + Git
-+ Splunk, Zabbix, other monitoring tools
++ Chef
++ Splunk, Zabbix, Datadog, other monitoring tools
 + Hashicorp Vault, Vagrant, Consul
 
 ## Experience
@@ -62,13 +63,12 @@ Played a key role in buildout of Cvent's newest iteration of its DR environment,
 
 + `03/2015 - 10/2016` => **Internet Operations / Cloud Operations Engineer**
   + Support/troubleshoot compute environments for external customer facing applications
-  + Administer Zabbix implementation (SME)
-  + Administer Datadog implementation (Non SME)
+  + Administer Zabbix/Datadog implementation (SME)
   + Administer F5 BigIP LTM (SME in training)
   + Mentor less-senior Engineers
   + Configuration management - Chef
-  + R&D - Chef, Docker, F5, Zabbix, Splunk, Datadog
-  + Automation/scripting - Bash, Ruby
+  + R&D - Chef, Docker, F5, Zabbix, Splunk, Datadog, custom automation
+  + Automation/scripting - Bash, Ruby, Python
 
 
 + `10/2014 - 02/2015` => **Helpdesk IT Support Engineer**
@@ -89,6 +89,15 @@ Played a key role in buildout of Cvent's newest iteration of its DR environment,
   + Ensured smooth day to day operations in the shop
   + Customer service representative
   + IT Support
+
+
+### Hobbies
++ `09/2010 - Present` => **PC Building**
+  + Built numerous gaming PCs for myself and friends
+  + Built a few machines for business/home use by friends
+  + Built a home NAS solution (FreeNAS)
+  + Learned a lot about how to build the best machine for the budget
+
 
 ## Education
 + `09/2002 - 06/2007` => **McLean High School**

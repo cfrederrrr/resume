@@ -44,7 +44,7 @@ Skilled SRE/DevOps engineer forged in a fast paced, increasingly complex, and ra
 + Designed and wrote an array of Ruby gems used to interact with F5 BigIP LTM REST API currently in use at Cvent
 + Eagerly seek out new libraries and design patterns
 + Strong grasp of Ruby language and the VM it is interpreted by
-+ 100% completion of CodeacAdemy Ruby course
++ 100% completion of CodeAcademy Ruby course
 
 ### General
 + RAID

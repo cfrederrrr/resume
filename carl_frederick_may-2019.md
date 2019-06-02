@@ -64,6 +64,7 @@ Skilled SRE/DevOps engineer forged in a fast paced, increasingly complex, and ra
   + Continued administration of F5 BigIP (SME/Lead)
   + Advanced automation and tooling of F5 BigIP
   + Research and develop replacement for F5 BigIP
+  + Increased mentorship of junior engineers
 
 
 + **10/2016 - 3/2018: SRE/R&D Engineer**

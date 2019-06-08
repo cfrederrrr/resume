@@ -1,5 +1,5 @@
 # Carl L Frederick IV
-Skilled SRE/DevOps engineer forged in a fast paced, increasingly complex, and rapidly expanding environment, focused on building reliable, secure, and high-performance business systems. Tenacious enough to dig to the true core of any given issue, problem or task; incisive enough to get there quickly.
+Skilled SRE/DevOps engineer forged in a fast paced, increasingly complex, and rapidly expanding environment. Focused on building reliable, secure, and high-performance business systems. Tenacious enough to dig to the true core of any given issue, problem or task; incisive enough to get there quickly.
 
 ## Skills & Accomplishments
 ### Automation, CI and CD
